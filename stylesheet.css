@@ -321,11 +321,4 @@ footer .socials{
     }
     
     
-    @media(max-width: 500px){
-
-    #my-works{
-        overflow-x: hidden;
-        width:100%;
-    }
-
 }
