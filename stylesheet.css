@@ -324,8 +324,7 @@ footer .socials{
     @media(max-width: 500px){
 
     #gallery{
-        float: left;
-        width:30%;
+        overflow-x: hidden;
     }
 
 }
